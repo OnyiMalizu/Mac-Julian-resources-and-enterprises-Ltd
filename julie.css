@@ -1,0 +1,22 @@
+/*h1{
+	text-decoration: none;
+	color: ghostwhite;
+}*/
+h1{
+	text-decoration: none;
+	text-align: center;
+	background-color: aqua;
+	width: 1400px;
+	height:100px;
+}
+a{
+	text-decoration: none;
+	color: beige;
+	text-decoration-color: beige;
+	list-style-type: oriya;
+	list-style: square;
+}
+body{
+	background-color:midnightblue;
+    backface-visibility: visible;
+}
